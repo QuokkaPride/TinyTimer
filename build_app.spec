@@ -6,7 +6,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('sloth.gif', '.')],
     hiddenimports=['win32com.client', 'winshell'],
     hookspath=[],
     hooksconfig={},
