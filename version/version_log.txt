@@ -1,0 +1,2 @@
+2024-11-15  v1.0.0 - Initial release 
+2024-11-15  v1.0.1 - Enabled testing without creating desktop shortcut, added version log
