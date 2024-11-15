@@ -1,2 +1,2 @@
-2024-11-15  v1.0.0 - Initial release 
-2024-11-15  v1.0.1 - Enabled testing without creating desktop shortcut, added version log
+2024-11-14  v1.0.0 - Initial release 
+2024-11-15  v1.0.1 - Enabled testing without creating desktop shortcut, added version log, click to pause/start, removed pause/start, added congrats message with sloth gif and start next session button, fixed always on top of start bar
