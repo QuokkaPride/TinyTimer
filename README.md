@@ -2,6 +2,8 @@
 
 The tiniest, simplest, always-visible-on-screen Pomodoro timer designed for hyperfocus on Windows.
 
+TinyTimer was designed me, Devon Saliga, to address my frustrations with traditional Pomodoro clocks: they are too large to raimain always visible on the screen, they are bloated with features, have bad UI, and they fail to encourage movement between work sessions. TinyTimer addresses these issues while sparking joy.
+
 ---
 
 ## Known Defects (As of 24.12.08):
@@ -33,12 +35,6 @@ The tiniest, simplest, always-visible-on-screen Pomodoro timer designed for hype
 4. **Improved SLOTH TIME functionality**
    - Add a 5-minute SLOTH TIME timer countdown to let you know when break is done.
    - Introduce a visually "too-large" optional 1-minute countdown for encouraging lifting between working periods.
-
----
-
-## About TinyTimer
-
-TinyTimer was built with simplicity and usability in mind. It is designed to stay always visible, providing an intuitive tool for maintaining focus during work sessions. Whether you're powering through tasks or taking structured breaks, TinyTimer keeps you on track effortlessly.
 
 ---
 
