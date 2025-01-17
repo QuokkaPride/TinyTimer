@@ -6,7 +6,7 @@ TinyTimer was designed me, Devon Saliga, to address my frustrations with traditi
 
 ---
 
-## Known Defects (As of 24.12.08):
+## Known Defects (As of 24.01.17):
 
 1. **Occasionally hides behind the Windows taskbar**
    - Suggested Fix: Increase refresh timing or reposition the timer to avoid overlap with the taskbar.
@@ -17,7 +17,10 @@ TinyTimer was designed me, Devon Saliga, to address my frustrations with traditi
 3. **Multiple instances can be opened simultaneously**
    - Suggested Fix: Add functionality to restrict launching duplicate instances.
 
-4. **TinyTimer incon not showing**
+4. **TinyTimer icon not showing**
+
+5. **Blocked by Windows Defender**
+   https://stackoverflow.com/questions/48946680/how-to-avoid-the-windows-defender-smartscreen-prevented-an-unrecognized-app-fro/66582477#66582477
    
 ---
 
